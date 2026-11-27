@@ -1,8 +1,8 @@
 # png-squeeze-01 — lossless PNG re-compressor
 
-[![competition](https://img.shields.io/badge/make.fun-png--squeeze--01--run--20261127-blue)](https://make.fun/c/png-squeeze-01-run-20261127)
-[![prize](https://img.shields.io/badge/prize-%24100-green)](https://make.fun/c/png-squeeze-01-run-20261127)
-[![deadline](https://img.shields.io/badge/deadline-29%20Nov%202026-orange)](https://make.fun/c/png-squeeze-01-run-20261127)
+[![make.fun · png-squeeze-01-run-20261127](https://make.fun/badge/png-squeeze-01-run-20261127.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127)
+[![rank](https://make.fun/badge/png-squeeze-01-run-20261127/heavense3nt/png-squeeze-01-run-20261127/rank.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127/leaderboard)
+[![reward](https://make.fun/badge/png-squeeze-01-run-20261127/heavense3nt/png-squeeze-01-run-20261127/reward.svg)](https://make.fun/bounty/png-squeeze-01-run-20261127)
 
 Entry for the [make.fun bounty "Squeeze screenshots into the smallest PNG"](https://make.fun/c/png-squeeze-01-run-20261127): one program (`main.ts`, Node 22, standard library only) that rewrites each 1280×720 RGBA screenshot of a set of 8 as a PNG, losslessly, in as few bytes as possible.
 
